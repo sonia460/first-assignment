@@ -1,0 +1,237 @@
+/* Reset some default margin and padding */
+body,
+h1,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply styles to header section */
+header {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the banner */
+.banner {}
+
+.banner-pic {
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+}
+
+.new {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.year {
+    color: #FFF;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+/* Style the middle section */
+.middle {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+
+.off {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.deals {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.catagories {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+/* Style the midnight section */
+.midnight {
+    background-color: #f0f0f0;
+    padding: 40px;
+    text-align: center;
+}
+
+.mid-content {}
+
+.party {
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+
+}
+
+.our {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.co {}
+
+/* Style the location section */
+.location {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+
+
+/* Apply styles to the main section */
+
+main {
+    padding: 40px;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.head {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.para1 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.para2 {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+/* Style the subscribe section */
+.subscribe {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+}
+
+.sus-contant {}
+
+.sus-picture {
+    width: 150px;
+    height: 150px;
+}
+
+.sus-news {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.sus-para {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+/* Style the midnight section button */
+.btn-midnight {
+    background-color: #ffcc00;
+    color: #333;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* style the form section */
+
+.btn-sus {
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+}
+
+
+/* style the footer*/
+.footer {
+    background: #070211;
+    width: 1600px;
+    height: 609px;
+    display: flex;
+    justify-content: space-around;
+    
+    
+
+}
+
+.street {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+   
+}
+
+.contact {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+
+
+.con {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.web {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.line {
+    height: 2px;
+    background-color: #fff;
+    margin: 20px 0;
+}
+
+.link {
+   text-align: center;
+}
+
+.link img {}
+
+.rights {
+    
+}
+.un-sus{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.all {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
